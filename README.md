@@ -1,7 +1,7 @@
 # Basic-Machine-Learning-Methods
 ## Implementation of multiple basic machine learning methods using numpy.
 
-In this repository, I will show how to implement the basic machine learning methods using numpy rather than the exsiting and converient library, in order to understand the underlying theorems of ML.
+This repository shows how to implement the basic machine learning methods using numpy rather than the exsiting and converient library, in order to understand the underlying theorems of ML.
 
 The reference Textbook is:
 1. Pattern Recognition And Machine Learning
