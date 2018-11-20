@@ -8,14 +8,14 @@ The reference Textbook is:
 
 
 **A list of ML methods to be implemented is given below.**
-1. ***K-Nearest Neighbors***
-2. ***Naive Bayes***
-3. ***Linear Regression***
-4. ***Logistic Regression***
-5. ***Gaussian Process Regression (using kernel)***
-6. ***K-means Clustering***
-7. ***Hidden Markov Model***
-8. ***Deep Neural Network***
+1. ***[K-Nearest Neighbors](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/K-Nearest%20Neighbor)***
+2. ***[Naive Bayes](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Naive%20Bayes%20Classification)***
+3. ***[Linear Regression](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Linear%20Regression)***
+4. ***[Logistic Regression](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Logistic%20Regression)***
+5. ***[Gaussian Process Regression](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Gaussian%20Process%20Regression) (using kernel)***
+6. ***[K-means Clustering](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/K-means%20Clustering)***
+7. ***[Hidden Markov Model](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Hidden%20Markov%20Model)***
+8. ***[Deep Neural Network](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Deep%20Neural%20Network)***
 
 
 Spesifically, each implementation is to solve a concrete problem. So for each methods's implementation, I will share the corresponding problem setting in a PDF file. 
