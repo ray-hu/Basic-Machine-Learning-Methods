@@ -18,4 +18,4 @@ The reference Textbook is:
 8. ***[Deep Neural Network](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Deep%20Neural%20Network)***
 
 
-Spesifically, each implementation is to solve a concrete problem. So for each methods's implementation, I will share the corresponding problem setting in a PDF file. 
+Spesifically, each implementation is to solve a concrete problem. So I will share the corresponding problem setting in a PDF file. 
