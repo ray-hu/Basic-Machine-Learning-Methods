@@ -17,5 +17,3 @@ The reference Textbook is:
 7. ***[Hidden Markov Model](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Hidden%20Markov%20Model)***
 8. ***[Deep Neural Network](https://github.com/ray-hu/Basic-Machine-Learning-Methods/tree/master/Deep%20Neural%20Network)***
 
-
-Spesifically, each implementation is to solve a concrete problem. So I will share the corresponding problem setting in a PDF file. 
