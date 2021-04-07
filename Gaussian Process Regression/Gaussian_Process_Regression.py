@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
-
 # In[ ]:
 
-
+# test
 '''
 Assignment 4 CS 5783 Machine Learning
 @author: Rui Hu
